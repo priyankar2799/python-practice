@@ -1,6 +1,3 @@
-import pyautogui
-import threading
-import datetime
 
 screenSize = pyautogui.size()
 
